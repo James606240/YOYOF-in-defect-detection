@@ -1,0 +1,9 @@
+CLASSES = [
+    '__background__',
+    'crazing',
+    'inclusion',
+    'patches',
+    'pitted_surface',
+    'rolled-in_scale',
+    'scratches'
+]
